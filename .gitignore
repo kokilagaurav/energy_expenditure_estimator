@@ -5,6 +5,9 @@ __pycache__/
 
 # C extensions
 *.so
+sample_submission.csv
+test.csv
+train.csv
 
 # Distribution / packaging
 .Python
